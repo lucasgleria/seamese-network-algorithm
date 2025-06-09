@@ -104,8 +104,6 @@ O projeto é contido principalmente em um único notebook Google Colab, estrutur
 └── README.md                         # Este arquivo
 ```
 
-*(Se você tiver outros arquivos de suporte ou scripts, liste-os aqui.)*
-
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas\! Se você tiver ideias para melhorias, novas funcionalidades ou encontrar algum bug, sinta-se à vontade para:
